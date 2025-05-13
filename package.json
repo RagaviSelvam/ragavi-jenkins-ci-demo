@@ -1,0 +1,12 @@
+{
+  "name": "ragavi-ci-pipeline-demo",
+  "version": "1.0.0",
+  "description": "A unique Node.js app created by Ragavi for SIT753 Jenkins CI/CD demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Running basic test...\" && exit 0"
+  },
+  "author": "Ragavi Selvam",
+  "license": "MIT"
+}
